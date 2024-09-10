@@ -5,6 +5,8 @@
 
 ## Information
 
+See similar project - [i3-swallow](https://github.com/jamesofarrell/i3-swallow/)
+
 ## Requirements
 
 - MacOS system with Aerospace installed (in a way that `aerospace` binary is in PATH)
