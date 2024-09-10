@@ -35,7 +35,7 @@ outputs = inputs:
 }
 ```
 
-(or use ovelays)
+(or use overlays)
 
 ### Non-nix
 
